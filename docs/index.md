@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "web-test"
-  text: "test"
+  text: "A VitePress Site"
   tagline: My great project tagline
   actions:
     - theme: brand
